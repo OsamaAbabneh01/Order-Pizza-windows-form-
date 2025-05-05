@@ -1,0 +1,10 @@
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
